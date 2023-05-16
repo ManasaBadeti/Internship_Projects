@@ -1,0 +1,37 @@
+{
+    "username": "User Name",
+    "password": "Password",
+    "login": "Login",
+    "sign_in": "Sign In",
+    "rememer_me": "Rememer Me",
+
+
+    "RegisteredPatients": "Registered Patients",
+    "TelephonicPatients": "Telephonic Patients",
+    "ClaimApproved": "Claim Approved",
+    "ClaimRejected": "Claim Rejected",
+
+
+    "name": "Initiated",
+    "in_progress": "In-Progress",
+    "closed": "Closed",
+    "welcome_message":"Welcome to customer support system of Aarogyasri trust. Ask us if you have any problem. Or visit below Help Center at bottom of screen for more information.",
+    "Conversation":"Conversation",
+    "Start_New_Conversation":"Start New Conversation",
+    "Search_Articles":"Search FAQ",
+    "Help_Center":"FAQ",
+    "Help_Article":"FAQ Answer",
+    "Profile":"Profile",
+    "Closed_Chats":"Closed Chats",
+    "Initiated_Chats":"Initiated Chats",
+    "In_Progress_Chats":"In-Progress Chats",
+    "Search_For_Help": "Search for Help",
+    "Search":"Search",
+    "faq_message": "Thank you for visiting Help Center.You can search for help topic and see details by clicking.",
+    "Start_Conversaion":"Start Conversaion",
+    "Scheme":"Scheme",
+    "Query_Type":"Query Type",
+    "Description":"Description",
+    "Send":"Send",
+    "Welcome_Chat":"Thank you for visiting customer support system of Aarogyasri trust. Please select the Scheme, query type and write your query in the box given below."
+}

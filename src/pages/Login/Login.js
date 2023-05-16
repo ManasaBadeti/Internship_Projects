@@ -155,7 +155,7 @@ export default function Login() {
                 >
                 {({errors, isValid, touched, dirty}) => (
                 <Form>
-                <Typography variant="body1" my={2} fontWeight={500} fontFamily='Lato, sans-serif'>Change Management System</Typography>
+                <Typography variant="body1" my={2} fontWeight={500} fontFamily='Lato, sans-serif'>ASRI PREAUTH</Typography>
                 <Grid item md={12} xs={12} >
                   <Grid item md={12} xs={10}>
                     <Field

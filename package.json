@@ -1,8 +1,8 @@
 {
-  "name": "cms-portal",
+  "name": "asri-preauth",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://10.48.158.197:8080/cms",
+  "homepage": "http://10.48.158.197:8080/asri",
   "dependencies": {
     "@date-io/dayjs": "^2.16.0",
     "@date-io/jalaali": "^2.16.1",
@@ -51,7 +51,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "compile": "npm run build && cd build && jar -cvf cms.war ."
+    "compile": "npm run build && cd build && jar -cvf preauth.war ."
   },
   "eslintConfig": {
     "extends": [
